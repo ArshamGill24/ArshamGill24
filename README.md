@@ -1,12 +1,9 @@
-### Hey there, I'm Arsham Munawar Gill! 👋
+### Hello, I'm Arsham Munawar Gill 👋
+🎓 Cybersecurity graduate from Air University (Class of 2025)
+🔐 Committed to protecting and enhancing digital security
+💼 Skilled in threat analysis, application security, and ethical hacking
+🌐 Eager to contribute, collaborate, and grow in the cybersecurity domain
 
-👨‍💻 Cybersecurity student at Air University ('25)  
-🔒 Passionate about securing the digital realm  
-💼 Exploring cyber landscapes and fortifying defenses  
-🚀 Let's team up and add a dash of security to the internet!  
-
-📫 How to reach me: gillarsham35@gmail.com 
-⚡ Fun fact: I'm a pro at finding the perfect Meme for any situation!  
-
-
+📩 Reach out: gillarsham35@gmail.com
+💡 Fun fact: I enjoy breaking into systems... legally, of course.
 
